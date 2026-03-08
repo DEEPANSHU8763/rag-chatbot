@@ -1,10 +1,15 @@
-streamlit
-langchain
+
+
 langchain-core
 langchain-community
 langchain-openai
 langchain-groq
-faiss-cpu
 pypdf
 python-dotenv
 tiktoken
+
+LangChain 0.2.x
+Groq API
+FAISS
+Streamlit
+Python 3.10
